@@ -7,7 +7,7 @@ A Discord bot that listens to a channel for keywords and posts messages matching
 
 # Installation
 ```
-	$ pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 # Usage
@@ -21,8 +21,8 @@ A Discord bot that listens to a channel for keywords and posts messages matching
 
 # Running the bot
 ```
-cd discord-keyword-bot
-python3 bot.py
+$ cd discord-keyword-bot
+$ python3 bot.py
 ```
 
 
